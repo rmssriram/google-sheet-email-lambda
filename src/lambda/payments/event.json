@@ -1,0 +1,7 @@
+{
+  "body": {
+    "amount": 5000,
+    "currency": "usd",
+    "payment_method": "card"
+  }
+}

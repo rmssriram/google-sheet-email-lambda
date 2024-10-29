@@ -1,0 +1,5 @@
+{
+  "keyFile": "src/google-cloud/sheet_credentials.json",
+  "spreadsheetId": "1XEBfpE4HXuI1g_tmvuJyOh7Ryi0Nyu7Pwo3ay78tv-c",
+  "values": ["Sample Event", "2024-12-01", "Sample Workshop", "10:00 AM", "5:00 PM", "50", "John", "Doe", "john.doe@example.com", "555-555-5555", "Extra tables", "Yes"]
+}
